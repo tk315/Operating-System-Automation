@@ -3,4 +3,7 @@ A script using robotjs module of Node.js that helps us in automating things on d
 
 All the things happening in video are happening Automatically.
 
-[![Operating System Automation](http://img.youtube.com/vi/urfkLfoo_AM/0.jpg)](https://youtu.be/urfkLfoo_AM)
+![](OSA.gif)
+
+Video Link: https://youtu.be/urfkLfoo_AM 
+
